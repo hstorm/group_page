@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: PhenoRob
+description: Robotics and Phenotyping for Sustainable Crop Production
+img: /assets/img/cropped-Logo_PhenoRob-notxt-1.png
+redirect: http://www.phenorob.de/
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.

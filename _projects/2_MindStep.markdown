@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 1
+title: Mind-Step
+description: Modelling Individual Decisions to Support the European Policies Related to Agriculture
+img: /assets/img/mind-step-logo.crop.png
+redirect: https://mind-step.eu/partners/ubo
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.
